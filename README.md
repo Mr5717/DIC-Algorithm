@@ -1,2 +1,6 @@
-# DIC Algorithm
-Implementation of the Dynamic Itemset Counting algorithm using Python.
+ * DIC Algorithm
+This project implements the Dynamic Itemset Counting (DIC) algorithm using Python.
+
+ * Files
+- **main.py** : main script that runs the algorithm  
+- **transactions.csv** : dataset used for testing
